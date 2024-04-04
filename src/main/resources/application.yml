@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Value-Test
+
+word:
+  max: 100
